@@ -41,7 +41,7 @@
           </v-row>
 
           <v-row class="mt-10 mb-10" align="center" justify="center">
-<!--            <iframe width="560" height="315" src="https://www.youtube.com/embed/wJ531QFMNIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/wJ531QFMNIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </v-row>
         </template>
       </exp-award>
