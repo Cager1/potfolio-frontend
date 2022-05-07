@@ -6,8 +6,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - potfolio-frontend',
-    title: 'potfolio-frontend',
+    titleTemplate: 'Filip Crnogorac',
+    title: 'Filip Crnogorac',
     htmlAttrs: {
       lang: 'en'
     },
